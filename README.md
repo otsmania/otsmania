@@ -2,7 +2,7 @@
 <br clear="both">
 
 <h1 align="center">About me</h1>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media.discordapp.net/attachments/1292479974971801742/1384525339736412210/aaaa.jpg?ex=6852bf34&is=68516db4&hm=a885432572321774b81edd6a5d4c0097164c4585b029fe27e54a1c2ffef98a9f&=&format=webp"  />
 <h3 align="left">hey, my name is otávio</h3>
 
 ###
